@@ -1,3 +1,6 @@
 [submodule "opd"]
 	path = opd
 	url = git@github.com:avg-itmo-enjoyer/opd.git
+[submodule "programming"]
+	path = programming
+	url = git@github.com:avg-itmo-enjoyer/programming.git
