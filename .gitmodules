@@ -1,0 +1,3 @@
+[submodule "opd"]
+	path = opd
+	url = git@github.com:avg-itmo-enjoyer/opd.git
