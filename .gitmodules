@@ -1,6 +1,8 @@
 [submodule "opd"]
 	path = opd
 	url = git@github.com:avg-itmo-enjoyer/opd.git
+	branch = master
 [submodule "programming"]
 	path = programming
 	url = git@github.com:avg-itmo-enjoyer/programming.git
+	branch = master
