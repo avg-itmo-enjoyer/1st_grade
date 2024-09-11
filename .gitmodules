@@ -4,3 +4,6 @@
 [submodule "programming"]
 	path = programming
 	url = git@github.com:avg-itmo-enjoyer/programming.git
+[submodule "itmo-starter-pack"]
+	path = itmo-starter-pack
+	url = git@github.com:avg-itmo-enjoyer/itmo-starter-pack.git
